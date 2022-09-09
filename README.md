@@ -1,5 +1,5 @@
 # topology_reconstruction
-Python codes for the topology reconstruction after polymer condensation. The codes process files output from LAMMPS only. Namely, a bond list bond.* is read as input. Example input LAMMPS scripts are also provided in this repository. 
+Python codes for the topology reconstruction after polymer condensation. The codes process files output from LAMMPS only. Namely, a bond list bond.* is read as input. Example input LAMMPS script (run.lmp) is also provided in this repository. 
 
 ==================== input and output files =======================================
 
